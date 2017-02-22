@@ -100,10 +100,10 @@ http request 후 아래와 같은 JSON response 받음
 }
 ```
 
-###node.js Rest clint를 이용해 API 호출  
+###node.js Rest client를 이용해 API 호출  
 nodejs 코드 참조  
 
-###Java Rest clint를 이용해 API 호출  
+###Java Rest client를 이용해 API 호출  
 java 코드 참조  
 
 EOF
